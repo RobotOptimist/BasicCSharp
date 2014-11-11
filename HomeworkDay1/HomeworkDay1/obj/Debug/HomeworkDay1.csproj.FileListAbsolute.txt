@@ -1,0 +1,6 @@
+c:\users\macivor\documents\visual studio 2012\Projects\HomeworkDay1\HomeworkDay1\bin\Debug\HomeworkDay1.exe.config
+c:\users\macivor\documents\visual studio 2012\Projects\HomeworkDay1\HomeworkDay1\bin\Debug\HomeworkDay1.exe
+c:\users\macivor\documents\visual studio 2012\Projects\HomeworkDay1\HomeworkDay1\bin\Debug\HomeworkDay1.pdb
+c:\users\macivor\documents\visual studio 2012\Projects\HomeworkDay1\HomeworkDay1\obj\Debug\HomeworkDay1.csprojResolveAssemblyReference.cache
+c:\users\macivor\documents\visual studio 2012\Projects\HomeworkDay1\HomeworkDay1\obj\Debug\HomeworkDay1.exe
+c:\users\macivor\documents\visual studio 2012\Projects\HomeworkDay1\HomeworkDay1\obj\Debug\HomeworkDay1.pdb
