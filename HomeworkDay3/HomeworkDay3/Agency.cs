@@ -11,10 +11,11 @@ namespace HomeworkDay3
         public string AgencyName { get; set; }
         public string Country { get; set; }
         public int OrganizationSize { get; set; }
+        
 
         public string GetAgencyInfo() 
         {
-            string info = "{0} -- {1} -- {2}", AgencyName, Country, OrganizationSize;
+            string info = AgencyName + " -- " + Country + " -- " + OrganizationSize;
             return info;
         }
 

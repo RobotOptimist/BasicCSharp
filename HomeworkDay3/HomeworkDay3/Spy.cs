@@ -15,7 +15,9 @@ namespace HomeworkDay3
 
         public void DisplaySpyInfo()
         {
-            //TODO: Implement This           
+            Console.WriteLine(CodeName + "--" + DateLastSeen
+                + "--" + Notes);
+            Console.WriteLine(Agency.GetAgencyInfo());
         }
     }
 }
