@@ -1,0 +1,6 @@
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay8\HomeworkDay8\bin\Debug\HomeworkDay8.exe.config
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay8\HomeworkDay8\bin\Debug\HomeworkDay8.exe
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay8\HomeworkDay8\bin\Debug\HomeworkDay8.pdb
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay8\HomeworkDay8\obj\Debug\HomeworkDay8.csprojResolveAssemblyReference.cache
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay8\HomeworkDay8\obj\Debug\HomeworkDay8.exe
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay8\HomeworkDay8\obj\Debug\HomeworkDay8.pdb
