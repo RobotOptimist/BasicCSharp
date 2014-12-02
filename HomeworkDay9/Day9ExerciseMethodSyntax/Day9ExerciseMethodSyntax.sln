@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9ExerciseMethodSyntax", "Day9ExerciseMethodSyntax\Day9ExerciseMethodSyntax.csproj", "{3DEB6C02-E52D-4B88-85F7-89CA05FC6D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEB6C02-E52D-4B88-85F7-89CA05FC6D60}.Debug|x86.ActiveCfg = Debug|x86
+		{3DEB6C02-E52D-4B88-85F7-89CA05FC6D60}.Debug|x86.Build.0 = Debug|x86
+		{3DEB6C02-E52D-4B88-85F7-89CA05FC6D60}.Release|x86.ActiveCfg = Release|x86
+		{3DEB6C02-E52D-4B88-85F7-89CA05FC6D60}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Day9ExerciseMethodSyntax\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Day9ExerciseMethodSyntax\bin\Debug\Day9ExerciseMethodSyntax.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Day9ExerciseMethodSyntax\bin\Debug\Day9ExerciseMethodSyntax.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Day9ExerciseMethodSyntax\obj\x86\Debug\Day9ExerciseMethodSyntax.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Day9ExerciseMethodSyntax\obj\x86\Debug\Day9ExerciseMethodSyntax.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Day9ExerciseMethodSyntax\Day9ExerciseMethodSyntax\obj\x86\Debug\Day9ExerciseMethodSyntax.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Day9ExerciseMethodSyntax\Day9ExerciseMethodSyntax\obj\x86\Debug\Day9ExerciseMethodSyntax.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Day9ExerciseMethodSyntax\Day9ExerciseMethodSyntax\bin\Debug\Day9ExerciseMethodSyntax.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Day9ExerciseMethodSyntax\Day9ExerciseMethodSyntax\bin\Debug\Day9ExerciseMethodSyntax.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Day9ExerciseMethodSyntax\Day9ExerciseMethodSyntax\obj\x86\Debug\ResolveAssemblyReference.cache
