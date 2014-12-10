@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Day10Model1" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Day10Entities1" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Sales" EntityType="Day10Model1.Sale" />
+  </EntityContainer>
+  <EntityType Name="Sale">
+    <Key>
+      <PropertyRef Name="SalesID" />
+    </Key>
+    <Property Name="SalesID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="SalesAmount" Type="Decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="SalesDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TaxAmount" Type="Decimal" Nullable="false" Precision="10" Scale="4" />
+  </EntityType>
+</Schema>

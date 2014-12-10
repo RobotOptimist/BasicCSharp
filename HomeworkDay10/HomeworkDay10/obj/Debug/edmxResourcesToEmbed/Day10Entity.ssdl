@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Day10Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Day10Model1StoreContainer">
+    <EntitySet Name="Sales" EntityType="Day10Model1.Store.Sales" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Sales">
+    <Key>
+      <PropertyRef Name="SalesID" />
+    </Key>
+    <Property Name="SalesID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SalesAmount" Type="smallmoney" Nullable="false" />
+    <Property Name="SalesDate" Type="smalldatetime" Nullable="false" />
+    <Property Name="TaxAmount" Type="smallmoney" Nullable="false" />
+  </EntityType>
+</Schema>

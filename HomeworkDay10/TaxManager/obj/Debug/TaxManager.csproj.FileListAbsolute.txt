@@ -1,0 +1,5 @@
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay10\TaxManager\bin\Debug\TaxManager.dll
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay10\TaxManager\bin\Debug\TaxManager.pdb
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay10\TaxManager\obj\Debug\TaxManager.csprojResolveAssemblyReference.cache
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay10\TaxManager\obj\Debug\TaxManager.dll
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay10\TaxManager\obj\Debug\TaxManager.pdb

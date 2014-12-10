@@ -1,0 +1,10 @@
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay10\HomeworkDay10\bin\Debug\HomeworkDay10.exe.config
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay10\HomeworkDay10\bin\Debug\Day10.mdf
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay10\HomeworkDay10\bin\Debug\Day10_log.ldf
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay10\HomeworkDay10\bin\Debug\HomeworkDay10.exe
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay10\HomeworkDay10\bin\Debug\HomeworkDay10.pdb
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay10\HomeworkDay10\bin\Debug\EntityFramework.dll
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay10\HomeworkDay10\bin\Debug\EntityFramework.xml
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay10\HomeworkDay10\obj\Debug\HomeworkDay10.csprojResolveAssemblyReference.cache
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay10\HomeworkDay10\obj\Debug\HomeworkDay10.exe
+C:\Users\MacIvor\Desktop\C# Projects\BasicCSharp\HomeworkDay8\HomeworkDay10\HomeworkDay10\obj\Debug\HomeworkDay10.pdb
